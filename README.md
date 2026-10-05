@@ -56,7 +56,7 @@ Copy `fonts/woff2/` into your site, then:
 
 ## License
 
-Free to use, not open source: Desktop and Web at the first tier are free, while higher tiers and App, Advertising, Broadcasting and OEM use are licensed at [hippopotype.com](https://hippopotype.com/fonts/fragment-serif), and the files may not be modified or passed on. The full terms are in [LICENSE.md](LICENSE.md), the same terms as [hippopotype.com/licensing](https://hippopotype.com/licensing). Claiming the styles in the store is optional; it adds a receipt and keeps the downloads in your account.
+Free to use, not open source: Desktop and Web at the first tier are free, while higher tiers and App, Advertising, Broadcasting and OEM use are licensed at [hippopotype.com](https://hippopotype.com/fonts/fragment-serif), and the files may not be modified or passed on. The full terms are in [LICENSE.md](LICENSE.md), the same terms as [hippopotype.com/licensing](https://hippopotype.com/licensing).
 
 The font files don't take pull requests, but issues about them are welcome.
 
