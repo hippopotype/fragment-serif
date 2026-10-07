@@ -10,7 +10,7 @@ Source: https://hippopotype.com/licensing/agreement
 
 ### Parties
 
-> This agreement is between hippopotype, the seller named in the terms of sale, and the license holder named on the order. It applies to every font license bought or claimed on hippopotype.com, together with the schedule for each license category on the order. The order confirmation and the receipt record which schedules and tiers were granted and at which version of this text.
+> This agreement is between hippopotype, the seller named in the terms of sale, and the license holder named on the order. It applies to every font license bought or claimed on hippopotype.com, together with the schedule for each license category on the order. The receipt, or for a free claim the license certificate, records which schedules and tiers were granted and at which version of this text.
 
 ### License holder
 
@@ -50,7 +50,7 @@ Source: https://hippopotype.com/licensing/agreement
 
 ### Changes and versions
 
-> hippopotype may publish new versions of this agreement and of the schedules. A license is governed by the version recorded on its order, which the receipt shows. Where updated font files for a licensed style are delivered to the same account, they stay under the version on the original order.
+> hippopotype may publish new versions of this agreement and of the schedules. A license is governed by the version recorded on its order, which the receipt or certificate shows. Where updated font files for a licensed style are delivered to the same account, they stay under the version on the original order.
 
 ### Termination
 
@@ -106,7 +106,7 @@ Source: https://hippopotype.com/licensing/web
 
 ### Visitors or page views
 
-> The tier is measured either as monthly unique visitors or as monthly page views across all sites using the fonts, whichever the license holder tracks. Tier 1 covers 5,000 monthly visitors or 20,000 monthly page views. Choose the reading at purchase; the receipt records it.
+> The tier is measured either as monthly unique visitors or as monthly page views across all sites using the fonts, whichever the license holder tracks. Tier 1 covers 5,000 monthly visitors or 20,000 monthly page views. Choose the reading at purchase or claim; the receipt or license certificate records it.
 
 ### Hosting and CDNs
 
@@ -144,7 +144,7 @@ Source: https://hippopotype.com/licensing/free-claim
 
 ### Claiming
 
-> A free license can be claimed from an account on hippopotype.com. The claim names a license holder like a purchase does, produces an order with no payment and a receipt, and the files are downloaded from the account. There is no payment card, no eligibility test and no declaration.
+> A free license can be claimed from an account on hippopotype.com. The claim names a license holder like a purchase does, is recorded on a license certificate in the account, and the files are downloaded from the account. There is no payment card, no eligibility test and no declaration.
 
 ### Official download
 
